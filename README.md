@@ -18,6 +18,25 @@ built using:
 - `mvnw spring-boot:run`
 - open http://localhost:8080 and TODO away!
 
+## Contribution Guidelines
+Here are some guidelines for contributing to the to-do web app on Github:
+
+Fork the repository and clone it to your local machine.
+
+Create a new branch for your changes. It's a good practice to use a branch name that describes the feature or bug fix you're working on.
+
+Make your changes and commit them to your branch. Make sure to follow the existing code style and keep your commits atomic and well-described.
+
+Push your changes to your forked repository and open a pull request (PR) on the original repository. Make sure to include a clear and detailed description of your changes and any relevant information, such as issue numbers or screenshots.
+
+Wait for the maintainers to review your changes and provide feedback. They may ask for additional changes or revisions before merging your PR.
+
+Once your PR is merged, you can delete your branch.
+
+Note: Remember to always keep your fork updated with the original repository to avoid conflicts when submitting pull request.
+
+Please also make sure to read the project's code of conduct, and to be aware of the project's licence.
+
 ## LICENSE
 
 MIT License
